@@ -62,5 +62,6 @@
     <Build Include="DatabaseScalarFunction1.sql" />
     <Build Include="Table1.sql" />
     <Build Include="Table2.sql" />
+    <Build Include="View1.sql" />
   </ItemGroup>
 </Project>
